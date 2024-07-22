@@ -1,0 +1,42 @@
+Change log - Write changes made with your name
+
+//hriday - added image functionality - updated the biddingpage.js and product page.js
+
+10.11.23 by hriday
+//hriday added footer.js and about.js with some styling in the frontend using bootstap and changed the name of website with logo.
+updated the product page place bid entry box. 
+applied and fixed the dark mode functionality across the website
+added features in the homepage
+// new zip attached in the drive
+
+16.11.23 by hriday
+// added products and bidding buttons in homepage
+// added multiple alert messages like login first and current bid cannot be less than starting bid etc.
+// fixed modify functionality and fixed current bid updation
+// added Your bids page which shows the bids placed by the user on the products with their details
+// fixed remaining time functionality
+// added highest bid and bid won by functionality to assign which user won the bid (still some error)
+// added Tech stack in about us page and updated linkedin of all members
+// added log out in navbar and hide login and signup when logged in 
+// backend and database (3 schemas) are setup and working well in storing and fetching data.
+// some other changes
+
+18.11.23 by aditi
+// added background color orange to signup page and login page with glow effect //now removed due to consistency in the website
+// fixed navbar responsiveness
+
+19.11.23 by hriday
+// added search bars on product page and your bids page to search by product name or bid amounts.
+// added filter by all bids or winnng bids to see winning bids only on your bids page (userbidspage)
+// added a my profile page to show users profile and his bidding statistics like number of bids placed , winning bids, win rate , average bidding amount etc.
+//added welcome email on signup. when a new user signups he/she receives a welcome email.
+
+20.11.23 by Sanskar Sinha
+//fixed homepage design 
+
+22.11.23 by hriday
+//fixed forgot password link on signup page
+// tried all functionalties including signup,login,forgot password,adding a bid, placing bid,modifiying bid ,deleting bids,your bids,email notifications,database all working fine. 
+//still winning user functionality has some flaws but rest working.
+
+

@@ -1,0 +1,10 @@
+Write the changes you made to the files in the change log file and upload the change files code only in the changes made folder.
+
+Please Dont make any changes in the frontend and backend folders currently. Only make changes in the change folder and add you changed code only with desciption.
+
+for example if you updated the LoginPage.js code and added some styling in the login.css then only upload the changed files and can write about the changes made in the change log file.
+
+
+Please dont change the MongoDb connection database as backend connection to database for login and singup and bidding has already been done
+
+Thank you 

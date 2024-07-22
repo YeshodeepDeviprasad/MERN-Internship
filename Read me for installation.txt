@@ -1,0 +1,9 @@
+For installation download the zip file and extract it.
+
+Then run the command npm install in the integrated terminal on the extracted file where the code is, to install the required node modules.
+run the command in frontend folder in the online auction system folder.
+
+Then run the command npm start in frontend and backend folder separately to start the server from backend and react scripts in frontend.
+
+Run the npm start command in backend folder first to start the backend and connect to the database and then run the npm start command in online auction system folder inside the frontend.
+
